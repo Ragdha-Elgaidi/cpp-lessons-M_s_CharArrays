@@ -1,7 +1,3 @@
-/*
-● Using cin
-● Or use getline for space
-*/
 #include<iostream>
 using namespace std;
 
