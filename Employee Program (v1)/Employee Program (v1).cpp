@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-	//freopen("c.in", "rt", stdin);
 
 	const int MAX = 10000;
 
@@ -24,8 +23,6 @@ int main()
 		cout << "4) Update Salary by name\n";
 
 		cin >> choice;
-
-		//if (cin.fail())			break;
 
 		if (!(1 <= choice && choice <= 4))
 		{
